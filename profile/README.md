@@ -1,6 +1,6 @@
 # KI-Servicezentrum Berlin-Brandenburg
 
-Willkommen beim GitHub vom KISZ-BB am HPI!
+## Willkommen beim GitHub vom KISZ-BB am HPI!
 
 Das KI-Servicezentrum Berlin-Brandenburg ist ein vom Bundesministerium für Bildung und Forschung gefördertes Projekt des Hasso-Plattner-Instituts mit dem Ziel, durch Wissensvermittlung und Vernetzung Barrieren für den Einsatz von KI in Wirtschaft und Gesellschaft zu senken. Forschungsschwerpunkte sind die Betriebsforschung zur Untersuchung eines KI-Rechenzentrums mit heterogener Hardware und die Methodenforschung zur Adaption und Optimierung von KI-Modellen.
 
