@@ -7,8 +7,7 @@ Das KI-Servicezentrum Berlin-Brandenburg ist ein vom Bundesministerium für Bild
 Für die Entwicklung und Nutzung von KI-Anwendungen stellt das KISZ-BB Ressourcen wie Rechenleistung, Speicherplatz, Daten und Modelle bereit. Zudem bietet das KISZ-BB Bildungs- und Beratungsangebote in Form von Workshops, Einzelberatungen und Online-Kursen an. So werden Unternehmen, Start-ups und gemeinnützige Einrichtungen dabei unterstützt, die nächsten Schritte zur Professionalisierung von KI-Anwendungen erfolgreich zu meistern.
 
 ## Das erwartet Sie auf unserem GitHub
-
-Auf unserem GitHub haben Sie Zugriff auf den Code und die Ressourcen unserer Bildungsangebote. Hier finden Sie den Code, der für unsere Workshops verwendet wird.
+Auf unserem GitHub stellen wir den Code, unsere Handouts und die Hands-On Teile unserer Bildungsangebote zur Verfügung. 
 
 ## Wie können Sie uns erreichen?
 Auf unserer [Website](https://hpi.de/kisz) finden Sie weitere Informationen zu unseren Dienstleistungen. \
