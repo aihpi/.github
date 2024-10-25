@@ -1,7 +1,7 @@
-# AI Services @ HPI
+# AI Service Centre Berlin Brandenburg @ HPI
 
-Welcome to AI Services @ Hasso Plattner Institute!
-The AI Services @ HPI is one of four service centers for artificial intelligence (AI) funded by the German Federal Ministry of Education and Research (BMBF). Our goal is to improve access to AI technology and to lower AI's financial and technological barriers in business and society.
-To help solve societal challenges in areas such as education, climate change, care, administration, medicine, and manufacturing, we are creating an infrastructure that facilitates exchange between basic research, applied science, and companies and enables the promotion of entrepreneurial innovation by start-ups.
+Welcome to the AI Service Centre of the Hasso Plattner Institute!
+The AI Service Centre Berlin Brandenburg is one of four service centres for artificial intelligence (AI) funded by the German Federal Ministry of Education and Research (BMBF). Our goal is to improve access to AI technology and to lower AI's financial and technological barriers in business and society.
 
-https://hpi.de/kisz/home.html
+Find out more or contact us on our [website](https://hpi.de/kisz)!
+
